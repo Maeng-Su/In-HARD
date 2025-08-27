@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<annotation-spec>
+  <head>
+    <valuetype-def>
+      <valueset name="type_InternalValueType_0">
+        <value-el color="green">[OP010] Turn sheets</value-el>
+        <value-el color="green">[OP010] Consult sheets</value-el>
+        <value-el color="green">[OP010] Catch Fixture key LARD</value-el>
+        <value-el color="green">[OP010] Catch Fixation FIXA1</value-el>
+        <value-el color="green">[OP010] Catch Bolt B820</value-el>
+        <value-el color="green">[OP010] Put down component</value-el>
+        <value-el color="green">[OP010] Catch component</value-el>
+        <value-el color="green">[OP010] Place LARD on Profile P360-1</value-el>
+        <value-el color="green">[OP010] Take measuring rod</value-el>
+        <value-el color="green">[OP010] Place FIXA1 on LARD at 160mm</value-el>
+        <value-el color="green">[OP010] Put down measuring rod</value-el>
+        <value-el color="green">[OP010] Take screwdriver</value-el>
+        <value-el color="green">[OP010] Screw FIXA1 with B820</value-el>
+        <value-el color="green">[OP010] Put down screwdriver</value-el>
+        <value-el color="magenta">[OP020] Turn sheets</value-el>
+        <value-el color="magenta">[OP020] Consult sheets</value-el>
+        <value-el color="magenta">[OP020] Catch Fixture key LARD</value-el>
+        <value-el color="magenta">[OP020] Catch Fixation FIXA1</value-el>
+        <value-el color="magenta">[OP020] Catch Bolt B820</value-el>
+        <value-el color="magenta">[OP020] Put down component</value-el>
+        <value-el color="magenta">[OP020] Catch component</value-el>
+        <value-el color="magenta">[OP020] Place LARD on P360-1</value-el>
+        <value-el color="magenta">[OP020] Take measuring rod</value-el>
+        <value-el color="magenta">[OP020] Place FIXA1 on LARD at 160mm</value-el>
+        <value-el color="magenta">[OP020] Put down measuring rod</value-el>
+        <value-el color="magenta">[OP020] Take screwdriver</value-el>
+        <value-el color="magenta">[OP020] Screw FIXA1 with B820</value-el>
+        <value-el color="magenta">[OP020] Put down screwdriver</value-el>
+        <value-el color="yellow">[OP030] Turn sheets</value-el>
+        <value-el color="yellow">[OP030] Consult sheets</value-el>
+        <value-el color="yellow">[OP030] Catch Cover CAPO (x2)</value-el>
+        <value-el color="yellow">[OP030] Catch Fixture key LARD (x2)</value-el>
+        <value-el color="yellow">[OP030] Catch Fixation FIXT (x2)</value-el>
+        <value-el color="yellow">[OP030] Catch Pillow block bearing PAL4019 (x2)</value-el>
+        <value-el color="yellow">[OP030] Catch Bolt B840 (x2)</value-el>
+        <value-el color="yellow">[OP030] Put down component</value-el>
+        <value-el color="yellow">[OP030] Catch component</value-el>
+        <value-el color="yellow">[OP030] Place LARD on P360-1 (x2)</value-el>
+        <value-el color="yellow">[OP030] Place FIXT on LARD (x2)</value-el>
+        <value-el color="yellow">[OP030] Place PAL4019 on FIXT (x2)</value-el>
+        <value-el color="yellow">[OP030] Take screwdriver</value-el>
+        <value-el color="yellow">[OP030] Screw PAL4019 with B820 (x2)</value-el>
+        <value-el color="yellow">[OP030] Put down screwdriver</value-el>
+        <value-el color="yellow">[OP030] Place CAPO on P360-1(x2)</value-el>
+        <value-el color="yellow">[OP030] Put down Profile P360-1</value-el>
+        <value-el color="pink">[OP040] Turn sheets</value-el>
+        <value-el color="pink">[OP040] Consult sheets</value-el>
+        <value-el color="pink">[OP040] Catch Strap clamps BRIT (x2)</value-el>
+        <value-el color="pink">[OP040] Catch Fixation FIXL</value-el>
+        <value-el color="pink">[OP040] Catch Bolt B820PT</value-el>
+        <value-el color="pink">[OP040] Catch Bolt B820</value-el>
+        <value-el color="pink">[OP040] Catch Fixation FIXA2</value-el>
+        <value-el color="pink">[OP040] Put down component</value-el>
+        <value-el color="pink">[OP040] Catch component</value-el>
+        <value-el color="pink">[OP040] Place BRIT1 and BRIT2 on FIXL</value-el>
+        <value-el color="pink">[OP040] Place FIXL on P360-2</value-el>
+        <value-el color="pink">[OP040] Place FIXA2 on P360-2</value-el>
+        <value-el color="pink">[OP040] Take screwdriver</value-el>
+        <value-el color="pink">[OP040] Screw FIXL with B820PT</value-el>
+        <value-el color="pink">[OP040] Screw FIXA2 with B820</value-el>
+        <value-el color="pink">[OP040] Put down screwdriver</value-el>
+        <value-el color="red">[OP050] Turn sheets</value-el>
+        <value-el color="red">[OP050] Consult sheets</value-el>
+        <value-el color="red">[OP050] Catch Profile P040</value-el>
+        <value-el color="red">[OP050] Catch Strap clamps BRIT (x2)</value-el>
+        <value-el color="red">[OP050] Catch Bolt B820PT</value-el>
+        <value-el color="red">[OP050] Put down component</value-el>
+        <value-el color="red">[OP050] Catch component</value-el>
+        <value-el color="red">[OP050] Place BRIT1 and BRIT2 on P040</value-el>
+        <value-el color="red">[OP050] Place P040 on P360-2</value-el>
+        <value-el color="red">[OP050] Take screwdriver</value-el>
+        <value-el color="red">[OP050] Screw P040 with B820PT</value-el>
+        <value-el color="red">[OP050] Put down screwdriver</value-el>
+        <value-el color="cyan">[OP060] Turn sheets</value-el>
+        <value-el color="cyan">[OP060] Consult sheets</value-el>
+        <value-el color="cyan">[OP060] Catch Fixation FIXA1</value-el>
+        <value-el color="cyan">[OP060] Catch Bolt B820 (x2)</value-el>
+        <value-el color="cyan">[OP060] Catch Fixture key LARD</value-el>
+        <value-el color="cyan">[OP060] Catch Fixation FIXA2</value-el>
+        <value-el color="cyan">[OP060] Put down component</value-el>
+        <value-el color="cyan">[OP060] Catch component</value-el>
+        <value-el color="cyan">[OP060] Place LARD on P040 (P360-2)</value-el>
+        <value-el color="cyan">[OP060] Place FIXA1 on P360-2</value-el>
+        <value-el color="cyan">[OP060] Place FIXA2 on P360-2</value-el>
+        <value-el color="cyan">[OP060] Take screwdriver</value-el>
+        <value-el color="cyan">[OP060] Screw FIXA1 with B820</value-el>
+        <value-el color="cyan">[OP060] Screw FIXA2 with B820</value-el>
+        <value-el color="cyan">[OP060] Put down screwdriver</value-el>
+        <value-el>[OP070] Turn sheets</value-el>
+        <value-el>[OP070] Consult sheets</value-el>
+        <value-el>[OP070] Catch P360-1</value-el>
+        <value-el>[OP070] Catch P360-2</value-el>
+        <value-el>[OP070] Catch Disk DI2T</value-el>
+        <value-el>[OP070] Catch Nut ECR8</value-el>
+        <value-el>[OP070] Catch Bolt B835</value-el>
+        <value-el>[OP070] Put down component</value-el>
+        <value-el>[OP070] Catch component</value-el>
+        <value-el>[OP070] Place DI2T on P360-2</value-el>
+        <value-el>[OP070] Place ECR8 on DI2T</value-el>
+        <value-el>[OP070] Take screwdriver</value-el>
+        <value-el>[OP070] Screw P360-2 with B835</value-el>
+        <value-el>[OP070] Put down screwdriver</value-el>
+        <value-el>[OP070] Put down Lower Part</value-el>
+      </valueset>
+      <valueset name="type_InternalValueType_1">
+        <value-el color="#FFA500">[1] No action</value-el>
+        <value-el color="#FFA500">[2] Consult sheets</value-el>
+        <value-el color="#FFA500">[3] Turn sheets</value-el>
+        <value-el color="#FFA500">[4] Take screwdriver</value-el>
+        <value-el color="#FFA500">[5] Put down screwdriver</value-el>
+        <value-el color="#FFA500">[6] Picking in front</value-el>
+        <value-el color="#FFA500">[7] Picking left</value-el>
+        <value-el color="#FFA500">[8] Take measuring rod</value-el>
+        <value-el color="#FFA500">[9] Put down measuring rod</value-el>
+        <value-el color="#FFA500">[10] Take component</value-el>
+        <value-el color="#FFA500">[11] Put down component</value-el>
+        <value-el color="#FFA500">[12] Assemble system</value-el>
+        <value-el color="#FFA500">[13] Take subsystem</value-el>
+        <value-el color="#FFA500">[14] Put down subsystem</value-el>
+      </valueset>
+      <valueset name="type_InternalValueType_2">
+        <value-el color="#FFA500">Actions robots []</value-el>
+      </valueset>    
+  </valuetype-def>
+  </head>
+  <body>
+    <font color="#000000" face="SansSerif.plain" size="12" style="plain"/>
+    <track-spec color-attr="type" name="Action Label" type="primary">
+      <font color="#000000" face="Dialog.bold" size="12" style="bold"/>
+      <attribute name="type" valuetype="type_InternalValueType_0"/>
+    </track-spec>
+    <track-spec color-attr="type" name="Meta-Action Label" type="primary">
+      <font color="#000000" face="Dialog.bold" size="12" style="bold"/>
+      <attribute name="type" valuetype="type_InternalValueType_1"/>
+    </track-spec>
+    </body>
+</annotation-spec>
