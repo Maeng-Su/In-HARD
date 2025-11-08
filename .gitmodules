@@ -1,0 +1,3 @@
+[submodule "lib/other-repo"]
+	path = lib/other-repo
+	url = https://github.com/happyharrycn/actionformer_release.git
